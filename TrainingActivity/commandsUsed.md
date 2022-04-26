@@ -1,0 +1,4 @@
+-Git Status
+-Git Add
+-Git Commit -m "CommandsUsed.md"
+-Git Push

@@ -1,0 +1,6 @@
+-Create new repo 
+-Name as "first-last name'
+-Git status
+-Git add 
+-Git commit -m "CommandsUsed.md"
+-Git Push
